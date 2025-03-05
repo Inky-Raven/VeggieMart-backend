@@ -25,12 +25,6 @@ Welcome to **VeggieMart**, your ultimate destination for fresh, organic, and hig
 
 Check out our deployed site [here](https://your-deployed-site-link.com).
 
-## Author
-
-- **Zaid Mohammed**
-  - [GitHub](https://github.com/zaidsaid-007/VeggieMart)
-  - [LinkedIn](https://www.linkedin.com/pulse/veggiemart-bridging-gap-between-farmers-urban-zaid-mohammed-awcnf/))
-
 ## Installation
 
 To get a local copy up and running, follow these steps:
